@@ -1,0 +1,43 @@
+# Geotecnia1 — São Vicente
+
+> Geotechnical engineering services in São Vicente, Brasil.
+
+## Services
+- [Ancoragens](https://sao-vicente.geotecnia1.org/ancoragens/)
+- [Cbr Viario](https://sao-vicente.geotecnia1.org/cbr-viario/)
+- [Densidade Cone Areia](https://sao-vicente.geotecnia1.org/densidade-cone-areia/)
+- [Escavacoes](https://sao-vicente.geotecnia1.org/escavacoes/)
+- [Estabilidade Taludes](https://sao-vicente.geotecnia1.org/estabilidade-taludes/)
+- [Estacas](https://sao-vicente.geotecnia1.org/estacas/)
+- [Fundacoes](https://sao-vicente.geotecnia1.org/fundacoes/)
+- [Geofisica](https://sao-vicente.geotecnia1.org/geofisica/)
+- [Geotecnia Viaria](https://sao-vicente.geotecnia1.org/geotecnia-viaria/)
+- [Granulometria](https://sao-vicente.geotecnia1.org/granulometria/)
+- [Injecoes](https://sao-vicente.geotecnia1.org/injecoes/)
+- [Investigacao](https://sao-vicente.geotecnia1.org/investigacao/)
+- [Isolamento Sismico](https://sao-vicente.geotecnia1.org/isolamento-sismico/)
+- [Lab In Situ](https://sao-vicente.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://sao-vicente.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://sao-vicente.geotecnia1.org/limites-atterberg/)
+- [Melhoramento](https://sao-vicente.geotecnia1.org/melhoramento/)
+- [Microzoneamento Sismico](https://sao-vicente.geotecnia1.org/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://sao-vicente.geotecnia1.org/monitoramento-escavacoes/)
+- [Muros Contencao](https://sao-vicente.geotecnia1.org/muros-contencao/)
+- [Pavimento Flexivel](https://sao-vicente.geotecnia1.org/pavimento-flexivel/)
+- [Pavimento Rigido](https://sao-vicente.geotecnia1.org/pavimento-rigido/)
+- [Pocos Inspecao](https://sao-vicente.geotecnia1.org/pocos-inspecao/)
+- [Radiers](https://sao-vicente.geotecnia1.org/radiers/)
+- [Refracao Sismica](https://sao-vicente.geotecnia1.org/refracao-sismica/)
+- [Resistividade](https://sao-vicente.geotecnia1.org/resistividade/)
+- [Sismica](https://sao-vicente.geotecnia1.org/sismica/)
+- [Sondagens Spt](https://sao-vicente.geotecnia1.org/sondagens-spt/)
+- [Taludes](https://sao-vicente.geotecnia1.org/taludes/)
+- [Triaxial](https://sao-vicente.geotecnia1.org/triaxial/)
+- [Tuneis Solo Mole](https://sao-vicente.geotecnia1.org/tuneis-solo-mole/)
+
+## Contact
+- Website: https://sao-vicente.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in São Vicente, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
